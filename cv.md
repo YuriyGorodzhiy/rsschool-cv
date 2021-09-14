@@ -41,7 +41,14 @@ function solution(number){
 
 ## Work experience:
 
+* From January of this year to the present, I have been working in a small IT company and have been developing an interface for the "getloyalty" web application, which helps in managing the client's reputation.
+* [Educational project of a multi-page site travel agencies](https://github.com/YuriyGorodzhiy/Learning-project_1)
+* [Educational project for online clothing and footwear store.](https://github.com/YuriyGorodzhiy/Learning-project_2)
+
 ## Education:
+
+* *MOSCOW ENERGY INSTITUTE (NATIONAL RESEARCH UNIVERSITY)* - Specialist of Thermal power plants
+* *Nordic IT School* - course web-developer
 
 ## English:
 
